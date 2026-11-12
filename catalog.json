@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-12T00:00:00Z",
+  "items": [
+    {
+      "id": "provider:unique-content-id",
+      "title": "عنوان نمایشی",
+      "title_fa": "عنوان فارسی (اختیاری)",
+      "original_title": "Original title",
+      "type": "movie",
+      "year": 2026,
+      "overview": "خلاصه‌ای که مجوز بازنشر آن را دارید.",
+      "genres": [
+        "Drama"
+      ],
+      "country_terms": [
+        "United States"
+      ],
+      "director": "نام کارگردان",
+      "directors": [
+        "نام کارگردان"
+      ],
+      "cast": [
+        "نام بازیگر"
+      ],
+      "actors": [
+        "نام بازیگر"
+      ],
+      "runtime": "110",
+      "age_rating": "age15",
+      "official_url": "https://www.netflix.com/title/00000000",
+      "metadata_rights_verified": false,
+      "metadata_license": "",
+      "metadata_license_url": "",
+      "poster_url": "",
+      "poster_rights_verified": false,
+      "playback": {
+        "licensed": false,
+        "provider": "",
+        "url": "",
+        "license_reference": ""
+      }
+    }
+  ]
+}
